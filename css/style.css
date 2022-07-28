@@ -1,0 +1,42 @@
+.card-largura{
+    max-width: 18rem;
+}
+
+.img-carrossel-um{
+    object-fit: cover;
+    object-position: 0 80%;
+    height: 400px;
+}
+.img-carrossel-dois{
+    object-fit: cover;
+    height: 400px;
+}
+
+.fonte-titulo{
+    font-family: 'Pacifico', cursive;
+}
+
+.cor-especial{
+    color: darkred!important;
+}
+
+.botao-cor-especial{
+    background-color: darkred;
+    color: white;
+}
+
+.borda-cor-especial{
+    border-color: darkred;
+}
+
+.car-posicao-imagem{
+    object-fit: cover;
+    height: 200px;
+}
+
+.email-rodape{
+    text-decoration: none;
+}
+.email-rodape:hover{
+    text-decoration: underline;
+}
